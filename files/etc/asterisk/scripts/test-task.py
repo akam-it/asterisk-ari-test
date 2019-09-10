@@ -30,7 +30,7 @@ def safe_bridge_destroy(bridge):
 
 
 def stasis_start_cb(channel_obj, ev):
-    endpoint = 'SIP/300'
+    endpoint = 'SIP/200'
     channel = channel_obj.get('channel')
     channel_name = channel.json.get('name')
     args = ev.get('args')

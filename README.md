@@ -11,4 +11,4 @@ After container is running, connect to asterisk ip with following accounts:
 - 200:Do7eifoz
 - 300:Do7eifoz
 
-Try to call to 300, 200 should ringing.
+Try to call to 300, 200 should ring.
